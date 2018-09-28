@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b00216d9-0f56-4edb-82e1-08a2bf9f3159" name="mcsajjan@MCSAJJAN-PC 2015-02-01 13:27:17" runUser="mcsajjan-PC\mcsajjan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1c2ea94c-a709-4dbc-9351-8217ff832792">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="mcsajjan_MCSAJJAN-PC 2015-02-01 13_27_17">
+      <DeploymentItem filename="D:\Office\SamplePrograms\Test Driven Development\ThoughtWorks\PureTDD\MarsRovers - Refactored\MarsRovers.CommandCenter\bin\Debug\MarsRovers.CommandCenter.dll" />
+      <DeploymentItem filename="D:\Office\SamplePrograms\Test Driven Development\ThoughtWorks\PureTDD\MarsRovers - Refactored\MarsRovers\bin\Debug\MarsRovers.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-02-01T13:27:17.8894704+05:30" queuing="2015-02-01T13:27:18.5915106+05:30" start="2015-02-01T13:27:18.6205122+05:30" finish="2015-02-01T13:27:19.5945679+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="16" executed="16" passed="16" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionL" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="6add42ec-d937-f62b-2021-e77365dd7357">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction L</Description>
+      <Execution id="f2416a59-b550-466b-b77b-c51d4905efcc" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionL" />
+    </UnitTest>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionLMMR" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="a48b6e19-9c60-2421-3254-b5acc0b0be30">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction LMMR</Description>
+      <Execution id="e777f6ae-bec1-4441-8db8-a73dc586ac88" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionLMMR" />
+    </UnitTest>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionRRMMMR" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="e246197b-4e65-e6f8-8825-4f0c123a19fa">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction RRMMMR</Description>
+      <Execution id="71c57462-8d8a-44ce-9f7e-05468ddef25a" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionRRMMMR" />
+    </UnitTest>
+    <UnitTest name="CanaryTest" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.functional.tests\bin\debug\marsrovers.functional.tests.dll" id="36ed5da5-079c-87f0-147c-812e0ec9733a">
+      <Execution id="1de4f966-4483-48e8-974c-f7376a9ee640" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.Functional.Tests/bin/Debug/MarsRovers.Functional.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.Functional.Tests.RoverCommandCenterTest, MarsRovers.Functional.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanaryTest" />
+    </UnitTest>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionLL" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="10162e16-c5d7-68b8-692c-587433d3aaf1">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction LL</Description>
+      <Execution id="abf06016-33ba-49d3-95a6-81f33f0b8cd3" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionLL" />
+    </UnitTest>
+    <UnitTest name="CanaryTest" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="ef56b814-44c2-e2df-a1c3-f7bbabb64af3">
+      <Execution id="d8967e8b-84f5-4fa1-b6e8-64b4f5f9c545" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanaryTest" />
+    </UnitTest>
+    <UnitTest name="ExecuteCommandCenterHavingTwoRoversPositionOverLapping" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.functional.tests\bin\debug\marsrovers.functional.tests.dll" id="0d08e412-8515-2158-8e80-3ba3b763e029">
+      <Description>Command center has two rovers, rover positions overlap</Description>
+      <Execution id="3f88c896-668c-4f1b-99b9-b141ade4fe2d" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.Functional.Tests/bin/Debug/MarsRovers.Functional.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.Functional.Tests.RoverCommandCenterTest, MarsRovers.Functional.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ExecuteCommandCenterHavingTwoRoversPositionOverLapping" />
+    </UnitTest>
+    <UnitTest name="ExecuteCommandCenterHavingSingleRover" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.functional.tests\bin\debug\marsrovers.functional.tests.dll" id="df3ed798-4ead-6d37-e37c-f653d4275a8a">
+      <Description>Command center has single rover, execute the command</Description>
+      <Execution id="d146b356-1a75-477a-9f4e-f50d8b498875" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.Functional.Tests/bin/Debug/MarsRovers.Functional.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.Functional.Tests.RoverCommandCenterTest, MarsRovers.Functional.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ExecuteCommandCenterHavingSingleRover" />
+    </UnitTest>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionR" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="4b66fc00-39e6-a142-659d-191f0cd517bd">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction R</Description>
+      <Execution id="184d0830-d8a1-4f7a-af05-357bf0f7ed18" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionR" />
+    </UnitTest>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionMM" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="7a7f0264-a455-c6ba-2fa4-b91db6d514d9">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction MM</Description>
+      <Execution id="fdb78c35-8ffd-4307-a5bb-46ef4db15c07" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionMM" />
+    </UnitTest>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionM" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="d480ed2c-18df-809b-eb31-f1b3a8c88aea">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction M</Description>
+      <Execution id="e8ae9aff-5b10-4fbd-907b-391a6634202e" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionM" />
+    </UnitTest>
+    <UnitTest name="ValidateMarsRoverStopsAtMaxCoOrinatesOfPlateu" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="41a79758-fd7c-f9a3-4ba6-ac36f986397f">
+      <Description>Validate that mars roves stop at the max co-ordinates of the plateu</Description>
+      <Execution id="035673ac-dab9-43e6-a4da-914f016f207d" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateMarsRoverStopsAtMaxCoOrinatesOfPlateu" />
+    </UnitTest>
+    <UnitTest name="ValidateMarsRoverStopsAtMinCoOrinatesOfPlateu" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="c8e18a40-adbc-f375-f653-5f34022e6b50">
+      <Description>Validate that mars roves stop at the mix co-ordinates of the plateu</Description>
+      <Execution id="70090ca5-912e-4b24-a6c7-608406b34b68" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ValidateMarsRoverStopsAtMinCoOrinatesOfPlateu" />
+    </UnitTest>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionRR" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="827560e0-810e-a968-87f0-3e784f1578a0">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction RR</Description>
+      <Execution id="9d3a513c-671c-40ce-a624-9a8a5983f35f" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionRR" />
+    </UnitTest>
+    <UnitTest name="RunMarsRoverForInitialPosition12NAndCommandInstructionLMR" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.commandcenter.tests\bin\debug\marsrovers.commandcenter.tests.dll" id="340ff6ac-25d0-1517-e110-335822053db9">
+      <Description>Rum Mars rover for the initial position 12N and commandinstruction LMR</Description>
+      <Execution id="bd9f37c6-c8c0-48f5-857b-c4c38b8099d5" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.CommandCenter.Tests/bin/Debug/MarsRovers.CommandCenter.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.CommandCenter.Tests.MarsRoverTest, MarsRovers.CommandCenter.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RunMarsRoverForInitialPosition12NAndCommandInstructionLMR" />
+    </UnitTest>
+    <UnitTest name="ExecuteCommandCenterHavingTwoRovers" storage="d:\office\sampleprograms\test driven development\thoughtworks\puretdd\marsrovers - refactored\tests\marsrovers.functional.tests\bin\debug\marsrovers.functional.tests.dll" id="77578eec-8fe2-8acf-b897-54a8a2370ae9">
+      <Description>Command center has two rovers, execute the command</Description>
+      <Execution id="2f0a59e3-88bd-4cbe-aa17-60f4b36b7238" />
+      <TestMethod codeBase="D:/Office/SamplePrograms/Test Driven Development/ThoughtWorks/PureTDD/MarsRovers - Refactored/Tests/MarsRovers.Functional.Tests/bin/Debug/MarsRovers.Functional.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MarsRovers.Functional.Tests.RoverCommandCenterTest, MarsRovers.Functional.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ExecuteCommandCenterHavingTwoRovers" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0d08e412-8515-2158-8e80-3ba3b763e029" executionId="3f88c896-668c-4f1b-99b9-b141ade4fe2d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="10162e16-c5d7-68b8-692c-587433d3aaf1" executionId="abf06016-33ba-49d3-95a6-81f33f0b8cd3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="340ff6ac-25d0-1517-e110-335822053db9" executionId="bd9f37c6-c8c0-48f5-857b-c4c38b8099d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36ed5da5-079c-87f0-147c-812e0ec9733a" executionId="1de4f966-4483-48e8-974c-f7376a9ee640" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41a79758-fd7c-f9a3-4ba6-ac36f986397f" executionId="035673ac-dab9-43e6-a4da-914f016f207d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b66fc00-39e6-a142-659d-191f0cd517bd" executionId="184d0830-d8a1-4f7a-af05-357bf0f7ed18" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6add42ec-d937-f62b-2021-e77365dd7357" executionId="f2416a59-b550-466b-b77b-c51d4905efcc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77578eec-8fe2-8acf-b897-54a8a2370ae9" executionId="2f0a59e3-88bd-4cbe-aa17-60f4b36b7238" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a7f0264-a455-c6ba-2fa4-b91db6d514d9" executionId="fdb78c35-8ffd-4307-a5bb-46ef4db15c07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="827560e0-810e-a968-87f0-3e784f1578a0" executionId="9d3a513c-671c-40ce-a624-9a8a5983f35f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a48b6e19-9c60-2421-3254-b5acc0b0be30" executionId="e777f6ae-bec1-4441-8db8-a73dc586ac88" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c8e18a40-adbc-f375-f653-5f34022e6b50" executionId="70090ca5-912e-4b24-a6c7-608406b34b68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d480ed2c-18df-809b-eb31-f1b3a8c88aea" executionId="e8ae9aff-5b10-4fbd-907b-391a6634202e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df3ed798-4ead-6d37-e37c-f653d4275a8a" executionId="d146b356-1a75-477a-9f4e-f50d8b498875" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e246197b-4e65-e6f8-8825-4f0c123a19fa" executionId="71c57462-8d8a-44ce-9f7e-05468ddef25a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef56b814-44c2-e2df-a1c3-f7bbabb64af3" executionId="d8967e8b-84f5-4fa1-b6e8-64b4f5f9c545" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3f88c896-668c-4f1b-99b9-b141ade4fe2d" testId="0d08e412-8515-2158-8e80-3ba3b763e029" testName="ExecuteCommandCenterHavingTwoRoversPositionOverLapping" computerName="MCSAJJAN-PC" duration="00:00:00.0232719" startTime="2015-02-01T13:27:18.6425135+05:30" endTime="2015-02-01T13:27:19.0645376+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f88c896-668c-4f1b-99b9-b141ade4fe2d">
+    </UnitTestResult>
+    <UnitTestResult executionId="abf06016-33ba-49d3-95a6-81f33f0b8cd3" testId="10162e16-c5d7-68b8-692c-587433d3aaf1" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionLL" computerName="MCSAJJAN-PC" duration="00:00:00.0096100" startTime="2015-02-01T13:27:19.0735381+05:30" endTime="2015-02-01T13:27:19.3805557+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="abf06016-33ba-49d3-95a6-81f33f0b8cd3">
+    </UnitTestResult>
+    <UnitTestResult executionId="bd9f37c6-c8c0-48f5-857b-c4c38b8099d5" testId="340ff6ac-25d0-1517-e110-335822053db9" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionLMR" computerName="MCSAJJAN-PC" duration="00:00:00.0005136" startTime="2015-02-01T13:27:19.3825558+05:30" endTime="2015-02-01T13:27:19.3885562+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd9f37c6-c8c0-48f5-857b-c4c38b8099d5">
+    </UnitTestResult>
+    <UnitTestResult executionId="1de4f966-4483-48e8-974c-f7376a9ee640" testId="36ed5da5-079c-87f0-147c-812e0ec9733a" testName="CanaryTest" computerName="MCSAJJAN-PC" duration="00:00:00.0001564" startTime="2015-02-01T13:27:19.3905563+05:30" endTime="2015-02-01T13:27:19.3965566+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1de4f966-4483-48e8-974c-f7376a9ee640">
+    </UnitTestResult>
+    <UnitTestResult executionId="035673ac-dab9-43e6-a4da-914f016f207d" testId="41a79758-fd7c-f9a3-4ba6-ac36f986397f" testName="ValidateMarsRoverStopsAtMaxCoOrinatesOfPlateu" computerName="MCSAJJAN-PC" duration="00:00:00.0003646" startTime="2015-02-01T13:27:19.3995568+05:30" endTime="2015-02-01T13:27:19.4045571+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="035673ac-dab9-43e6-a4da-914f016f207d">
+    </UnitTestResult>
+    <UnitTestResult executionId="184d0830-d8a1-4f7a-af05-357bf0f7ed18" testId="4b66fc00-39e6-a142-659d-191f0cd517bd" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionR" computerName="MCSAJJAN-PC" duration="00:00:00.0001908" startTime="2015-02-01T13:27:19.4065572+05:30" endTime="2015-02-01T13:27:19.4115575+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="184d0830-d8a1-4f7a-af05-357bf0f7ed18">
+    </UnitTestResult>
+    <UnitTestResult executionId="f2416a59-b550-466b-b77b-c51d4905efcc" testId="6add42ec-d937-f62b-2021-e77365dd7357" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionL" computerName="MCSAJJAN-PC" duration="00:00:00.0001884" startTime="2015-02-01T13:27:19.4145577+05:30" endTime="2015-02-01T13:27:19.4195579+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2416a59-b550-466b-b77b-c51d4905efcc">
+    </UnitTestResult>
+    <UnitTestResult executionId="2f0a59e3-88bd-4cbe-aa17-60f4b36b7238" testId="77578eec-8fe2-8acf-b897-54a8a2370ae9" testName="ExecuteCommandCenterHavingTwoRovers" computerName="MCSAJJAN-PC" duration="00:00:00.0003050" startTime="2015-02-01T13:27:19.4225581+05:30" endTime="2015-02-01T13:27:19.4275584+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f0a59e3-88bd-4cbe-aa17-60f4b36b7238">
+    </UnitTestResult>
+    <UnitTestResult executionId="fdb78c35-8ffd-4307-a5bb-46ef4db15c07" testId="7a7f0264-a455-c6ba-2fa4-b91db6d514d9" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionMM" computerName="MCSAJJAN-PC" duration="00:00:00.0002086" startTime="2015-02-01T13:27:19.4285585+05:30" endTime="2015-02-01T13:27:19.4545599+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fdb78c35-8ffd-4307-a5bb-46ef4db15c07">
+    </UnitTestResult>
+    <UnitTestResult executionId="9d3a513c-671c-40ce-a624-9a8a5983f35f" testId="827560e0-810e-a968-87f0-3e784f1578a0" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionRR" computerName="MCSAJJAN-PC" duration="00:00:00.0001856" startTime="2015-02-01T13:27:19.4565601+05:30" endTime="2015-02-01T13:27:19.4625604+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d3a513c-671c-40ce-a624-9a8a5983f35f">
+    </UnitTestResult>
+    <UnitTestResult executionId="e777f6ae-bec1-4441-8db8-a73dc586ac88" testId="a48b6e19-9c60-2421-3254-b5acc0b0be30" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionLMMR" computerName="MCSAJJAN-PC" duration="00:00:00.0001864" startTime="2015-02-01T13:27:19.4645605+05:30" endTime="2015-02-01T13:27:19.4695608+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e777f6ae-bec1-4441-8db8-a73dc586ac88">
+    </UnitTestResult>
+    <UnitTestResult executionId="70090ca5-912e-4b24-a6c7-608406b34b68" testId="c8e18a40-adbc-f375-f653-5f34022e6b50" testName="ValidateMarsRoverStopsAtMinCoOrinatesOfPlateu" computerName="MCSAJJAN-PC" duration="00:00:00.0002121" startTime="2015-02-01T13:27:19.4715609+05:30" endTime="2015-02-01T13:27:19.4765612+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="70090ca5-912e-4b24-a6c7-608406b34b68">
+    </UnitTestResult>
+    <UnitTestResult executionId="e8ae9aff-5b10-4fbd-907b-391a6634202e" testId="d480ed2c-18df-809b-eb31-f1b3a8c88aea" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionM" computerName="MCSAJJAN-PC" duration="00:00:00.0001904" startTime="2015-02-01T13:27:19.4795614+05:30" endTime="2015-02-01T13:27:19.4845617+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8ae9aff-5b10-4fbd-907b-391a6634202e">
+    </UnitTestResult>
+    <UnitTestResult executionId="d146b356-1a75-477a-9f4e-f50d8b498875" testId="df3ed798-4ead-6d37-e37c-f653d4275a8a" testName="ExecuteCommandCenterHavingSingleRover" computerName="MCSAJJAN-PC" duration="00:00:00.0002516" startTime="2015-02-01T13:27:19.4875618+05:30" endTime="2015-02-01T13:27:19.4925621+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d146b356-1a75-477a-9f4e-f50d8b498875">
+    </UnitTestResult>
+    <UnitTestResult executionId="71c57462-8d8a-44ce-9f7e-05468ddef25a" testId="e246197b-4e65-e6f8-8825-4f0c123a19fa" testName="RunMarsRoverForInitialPosition12NAndCommandInstructionRRMMMR" computerName="MCSAJJAN-PC" duration="00:00:00.0001975" startTime="2015-02-01T13:27:19.5005626+05:30" endTime="2015-02-01T13:27:19.5055629+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71c57462-8d8a-44ce-9f7e-05468ddef25a">
+    </UnitTestResult>
+    <UnitTestResult executionId="d8967e8b-84f5-4fa1-b6e8-64b4f5f9c545" testId="ef56b814-44c2-e2df-a1c3-f7bbabb64af3" testName="CanaryTest" computerName="MCSAJJAN-PC" duration="00:00:00.0001469" startTime="2015-02-01T13:27:19.5155634+05:30" endTime="2015-02-01T13:27:19.5215638+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d8967e8b-84f5-4fa1-b6e8-64b4f5f9c545">
+    </UnitTestResult>
+  </Results>
+</TestRun>
