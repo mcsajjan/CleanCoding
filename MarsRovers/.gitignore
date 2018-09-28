@@ -1,3 +1,5 @@
-*.csproj
+*.vsmdi
+*.testsettings
+TestResults
 obj
 bin

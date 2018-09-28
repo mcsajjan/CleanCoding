@@ -27,9 +27,3 @@ RemoveSingleRoveCommand: Done
 refactor method SetCurrentPositionOfRover (It is returning void):Done
 Move GetCurrentPositionOfRovers: Done
 Remove InvalidEnum : Done
-
-Mistkates:
-1. Unnecessarly trying to make construnctor private
-2. Unnecessarly trying to segregare parsing from the MarsRover
-3. Unnecessarly adding interface ICommand
-4. Unnecessarly adding interface IPosition
